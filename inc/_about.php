@@ -1,7 +1,7 @@
 <section id="about" class="about-us">
 	<div class="about-container">
 		<div class="container">
-			<br/>
+			<br/><br/>
 			<h2 class="text-center sample"><strong>About Us</strong></h2>
 			<br />
 			<div class="row">

@@ -11,7 +11,7 @@
 			<div class="col-md-10">
 				<br/>
 				<h3 class="text-muted"><strong>Name of Reviewer</strong><small> | position here</small> </h3>
-				<p class="text-white">" Labore exercitation sed voluptate ut sit commodo reprehenderit ad. "</p>
+				<p>" Labore exercitation sed voluptate ut sit commodo reprehenderit ad. "</p>
 			</div>
 		</div>
 		<br/>
@@ -22,7 +22,7 @@
 			<div class="col-md-10">
 				<br/>
 				<h3 class="text-muted"><strong>Name of Reviewer</strong><small> | position here</small> </h3>
-				<p class="text-white">" Cupidatat minim magna duis nulla deserunt veniam sit proident non ullamco pariatur proident ea voluptate sunt aute excepteur culpa minim amet ullamco ea incididunt."</p>
+				<p>" Cupidatat minim magna duis nulla deserunt veniam sit proident non ullamco pariatur proident ea voluptate sunt aute excepteur culpa minim amet ullamco ea incididunt."</p>
 			</div>
 		</div>
 		<br/>
@@ -33,7 +33,7 @@
 			<div class="col-md-10">
 				<br/>
 				<h3 class="text-muted"><strong>Name of Reviewer</strong><small> | position here</small> </h3>
-				<p class="text-white">" Consequat culpa laborum elit enim."</p>
+				<p>" Consequat culpa laborum elit enim."</p>
 			</div>
 		</div>
 

@@ -27,7 +27,5 @@ jQuery(window).scroll(function(){
     {
         $( "nav" ).removeClass('fixed-top');
     }
-    
-    console.log(scrollPos)
 
 })
