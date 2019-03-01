@@ -23,7 +23,6 @@
 						<div class="box-body">
 							<h3 class="text-product">Title Here</h3>
 						</div>
-						<button class="btn btn-md btn-outline-primary btn-read">Read More</button>
 					</center>
 				</div>
 			</div>

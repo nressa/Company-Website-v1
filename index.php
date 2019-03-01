@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="eng">
 
 <?php include ('inc/header.php') ?>
 
@@ -7,7 +7,7 @@
 
 	<?php include ('inc/_home.php') ?>
 
-	<nav class="nav nav-pills nav-fill bg-info">
+	<nav class="nav nav-pills nav-fill bg-dark">
 		<a href="#home" class="nav-item nav-link" href="#">HOME</a>
 		<a href="#about" class="nav-item nav-link" href="#">ABOUT</a>
 		<a href="#team" class="nav-item nav-link" href="#">TEAM</a>

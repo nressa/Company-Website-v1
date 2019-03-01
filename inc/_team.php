@@ -3,6 +3,11 @@
 			<br/>
 			<h2 class="text-center"><strong>Our Team</strong></h2><br />
 			<div class="row">
+				<p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			</div>
+			<div class="row">
 				<div class="col-md-3">
 					
 						<div class="img-member" data-aos="zoom-in" style="background: url(images/member/img-1.jpg);">
