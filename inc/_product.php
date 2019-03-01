@@ -19,7 +19,7 @@
 				<div class="box-product bg-info">
 					<center>
 						<h4 class="bg-info text-white text-featured">Featured</h4>
-						<a href="page-product.php"><img src="images/prod/img-1.jpg" class="img-product"></a>
+						<a href="page-product.php"><img src="images/prod/img-1.jpg" class="img-product" alt="unavailable" /></a>
 						<div class="box-body">
 							<h3 class="text-product">Title Here</h3>
 						</div>
@@ -30,7 +30,7 @@
 				<div class="box-product bg-danger">
 					<h4 class="bg-info text-white text-featured bg-danger">Hot deal</h4>
 					<center>
-						<img src="images/prod/img-2.jpg" class="img-product">
+						<img src="images/prod/img-2.jpg" class="img-product" alt="unavailable" />
 						<div class="box-body">
 							<h3 class="text-product">Title Here</h3>
 						</div>
@@ -41,7 +41,7 @@
 				<div class="box-product bg-success">
 					<center>
 					<h4 class="bg-success text-white text-featured">New</h4>
-						<img src="images/prod/img-3.jpg" class="img-product">
+						<img src="images/prod/img-3.jpg" class="img-product" alt="unavailable" />
 						<div class="box-body">
 							<h3 class="text-product">Title Here</h3>
 						</div>
@@ -52,7 +52,7 @@
 				<div class="box-product bg-info">
 					<center>
 					<h4 class="bg-info text-white text-featured">Featured</h4>
-						<img src="images/prod/img-4.jpg" class="img-product">
+						<img src="images/prod/img-4.jpg" class="img-product" alt="unavailable" />
 						<div class="box-body">
 							<h3 class="text-product">Title Here</h3>
 						</div>
@@ -63,7 +63,7 @@
 				<div class="box-product bg-success">
 					<center>
 					<h4 class="bg-success text-white text-featured">New</h4>
-						<img src="images/prod/img-5.jpg" class="img-product">
+						<img src="images/prod/img-5.jpg" class="img-product" alt="unavailable" />
 						<div class="box-body">
 							<h3 class="text-product">Title Here</h3>
 						</div>
@@ -74,7 +74,7 @@
 				<div class="box-product bg-info">
 					<center>
 					<h4 class="bg-info text-white text-featured">Featured</h4>
-						<img src="images/prod/img-6.jpg" class="img-product">
+						<img src="images/prod/img-6.jpg" class="img-product" alt="unavailable" />
 						<div class="box-body">
 							<h3 class="text-product">Title Here</h3>
 						</div>
@@ -85,7 +85,7 @@
 				<div class="box-product bg-success">
 					<center>
 					<h4 class="bg-success text-white text-featured">New</h4>
-						<img src="images/prod/img-7.jpg" class="img-product">
+						<img src="images/prod/img-7.jpg" class="img-product" alt="unavailable" />
 						<div class="box-body">
 							<h3 class="text-product">Title Here</h3>
 						</div>
@@ -96,7 +96,7 @@
 				<div class="box-product bg-danger">
 					<center>
 					<h4 class="bg-danger text-white text-featured">Hot Deal</h4>
-						<img src="images/prod/img-8.jpg" class="img-product">
+						<img src="images/prod/img-8.jpg" class="img-product" alt="unavailable" />
 						<div class="box-body">
 							<h3 class="text-product">Title Here</h3>
 						</div>

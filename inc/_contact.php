@@ -17,12 +17,15 @@
 					<form>
 						<br/>
 						<div class="form-group">
+							<label for="name"></label>
 							<input type="text" name="name" placeholder="name..." class="form-control" />
 						</div>
 						<div class="form-group">
+							<label for="email"></label>
 							<input type="email" name="email" placeholder="email address..." class="form-control" />
 						</div>
 						<div class="form-group">
+							<label for="message"></label>
 							<textarea name="message" class="form-control" rows="3"></textarea>
 						</div>
 						<button class="btn btn-block btn-dark"><span class="fas fa-envelope"></span> Send Message</button>
