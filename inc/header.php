@@ -1,6 +1,14 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	<meta name="Description" content="Company Profile Static Webssite version 1">
+	<!-- meta data -->
+	<meta property="og:site_name" content="Ressa Nova Magbanua" />
+    <meta property="og:type" content="website"/>
+    <meta property="og:title" content="My Portfolio"/>
+    <meta property="og:description" content="My name is Ressa, and this is my portfolio."/>
 
   	<link rel="shortcut icon" type="image/png" href="images/favicon.png"/>
 	<link rel="stylesheet" type="text/css" href="plugins/css/bootstrap.min.css">
