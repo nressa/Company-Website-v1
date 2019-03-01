@@ -6,7 +6,7 @@
 
 		<div class="row">
 			<div class="col-md-2">
-				<img src="images/member/test2.png" class="img-circle img-responsive img-review">
+				<img src="images/member/test2.png" class="img-circle img-responsive img-review" alt="unavailable" />
 			</div>
 			<div class="col-md-10">
 				<br/>
@@ -17,7 +17,7 @@
 		<br/>
 		<div class="row">
 			<div class="col-md-2">
-				<img src="images/member/test3.jpg" class="img-circle img-responsive img-review">
+				<img src="images/member/test3.jpg" class="img-circle img-responsive img-review" alt="unavailable" />
 			</div>
 			<div class="col-md-10">
 				<br/>
@@ -28,7 +28,7 @@
 		<br/>
 		<div class="row">
 			<div class="col-md-2">
-				<img src="images/member/test4.png" class="img-circle img-responsive img-review">
+				<img src="images/member/test4.png" class="img-circle img-responsive img-review" alt="unavailable" />
 			</div>
 			<div class="col-md-10">
 				<br/>
