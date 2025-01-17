@@ -9,7 +9,7 @@
 
 	<nav class="nav nav-pills nav-fill bg-dark">
 		<a href="#home" class="nav-item nav-link" href="#">HOME</a>
-		<a href="#about" class="nav-item nav-link" href="#">ABOUT</a>
+		<a href="#about" class="nav-item nav-link" href="#">ABOUT US</a>
 		<a href="#team" class="nav-item nav-link" href="#">TEAM</a>
 		<a href="#experience" class="nav-item nav-link" href="#">EXPERIENCE</a>
 		<a href="#product" class="nav-item nav-link" href="#">PRODUCTS</a>
