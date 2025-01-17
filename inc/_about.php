@@ -15,14 +15,13 @@
 					<div class="box bg-info">
 						<br><hr/>
 						<h3 class="box-text">
-							<strong>Title Here</strong>
+							<strong>WELCOME TO QA</strong>
 						</h3>
 	
 						<div class="box-body">
 							<div class="container">
 								<p>
-									Lorem ipsum eu sunt sint dolor mollit elit et esse aliquip anim.
-									Lorem ipsum eu sunt sint dolor mollit elit et esse aliquip anim.
+									Github is great! We are able to work remotely across the globe with the team.
 									<br/><br/>
 								</p>
 							</div>
